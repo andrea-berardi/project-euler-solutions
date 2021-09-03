@@ -7,5 +7,5 @@ Cargo.lock
 a.out
 
 # IDE resources
-.idea
-.vscode
+.idea/
+.vscode/
