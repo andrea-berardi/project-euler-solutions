@@ -1,0 +1,11 @@
+#Rust files
+target/
+Cargo.lock
+**/*.rs.bk
+
+# C files
+a.out
+
+# IDE resources
+.idea
+.vscode
