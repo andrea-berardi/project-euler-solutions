@@ -8,7 +8,7 @@ As you might expect, these solutions are not meant to be _optimal_ or even _good
 
 ## Problems solved or under active development
 
-The completed problems are shown as :heavy_check_mark:, and those under active development as :white_check_mark:.
+The completed problems are shown as :ballot_box_with_check:, and those under active development as :black_square_button:.
 
 - [x] Problem 1
 - [x] Problem 2
