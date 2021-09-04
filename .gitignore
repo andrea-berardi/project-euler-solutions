@@ -1,4 +1,4 @@
-#Rust files
+# Rust files
 target/
 Cargo.lock
 **/*.rs.bk
