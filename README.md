@@ -16,4 +16,3 @@ The completed problems are shown as :ballot_box_with_check:, and those under act
 - [x] Problem 4
 - [x] Problem 5
 - [x] Problem 6
-
