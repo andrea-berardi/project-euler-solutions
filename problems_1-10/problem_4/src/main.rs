@@ -1,3 +1,6 @@
+// Largest palindrome product
+// https://projecteuler.net/problem=4
+
 fn main() {
     let mut biggest_palindrome: u32 = 0;
 

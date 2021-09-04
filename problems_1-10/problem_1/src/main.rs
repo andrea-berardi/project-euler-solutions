@@ -1,3 +1,6 @@
+// Multiples of 3 or 5
+// https://projecteuler.net/problem=1
+
 fn main() {
     let mut sum: u32 = 0;
 

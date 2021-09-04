@@ -1,3 +1,6 @@
+// Sum square difference
+// https://projecteuler.net/problem=6
+
 fn main() {
     let mut a: u64 = 0;
     for i in 0..=100 {

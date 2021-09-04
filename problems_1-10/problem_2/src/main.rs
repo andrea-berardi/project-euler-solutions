@@ -1,3 +1,6 @@
+// Even Fibonacci numbers
+// https://projecteuler.net/problem=2
+
 fn main() {
     let mut fibonacci: u32 = 0;
     let mut first: u32 = 0;

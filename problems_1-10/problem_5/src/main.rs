@@ -1,3 +1,6 @@
+// Smallest multiple
+// https://projecteuler.net/problem=5
+
 fn main() {
     let mut i: u32 = 1;
 

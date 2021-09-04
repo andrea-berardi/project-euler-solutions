@@ -1,3 +1,6 @@
+// Largest prime factor
+// https://projecteuler.net/problem=3
+
 fn main() {
     let mut n: u64 = 600_851_475_143;
     let mut max_prime: u64 = 0;
