@@ -7,11 +7,11 @@ fn main() {
     for i in 0..=u32::max_value() {
         if i.is_prime() {
             c += 1;
-        }
 
-        if c == 10_001 {
-            println!("{}", i);
-            break;
+            if c == 10_001 {
+                println!("{}", i);
+                break;
+            }
         }
     }
 }
