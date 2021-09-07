@@ -1,3 +1,7 @@
+// NOT FINAL VERSION
+// THIS TAKES AGES TO RUN
+// IT TOOK AROUND 6m ON MY MACHINE
+
 fn main() {
     for t in 0..=u32::max_value() {
         let t: u32 = (t * (t + 1)) / 2;
