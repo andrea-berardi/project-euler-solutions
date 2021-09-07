@@ -32,15 +32,15 @@ fn main() {
 
     let mut max: u32 = 0;
     for i in 0..20 * 20 {
-        if grid.up(i) > max {
-            max = grid.up(i);
-        }
+        // if grid.up(i) > max {
+        //     max = grid.up(i);
+        // }
         if grid.down(i) > max {
             max = grid.down(i);
         }
-        if grid.left(i) > max {
-            max = grid.left(i);
-        }
+        // if grid.left(i) > max {
+        //     max = grid.left(i);
+        // }
         if grid.right(i) > max {
             max = grid.right(i);
         }
