@@ -10,7 +10,7 @@ As you might expect, these solutions are not meant to be _optimal_ or even _good
 
 The completed problems are shown as :ballot_box_with_check:, and those under active development as :black_square_button:.
 
-- [x] Problem 1 - 10
+- [x] Problem 01 - 10
 - [ ] Problem 11 - 20
   - [x] Problem 11
   - [x] Problem 12
