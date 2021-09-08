@@ -2,12 +2,12 @@
 // https://projecteuler.net/problem=12
 
 fn main() {
-    let mut primes: Vec<u32> = Vec::with_capacity(100_000);
+    let mut primes: Vec<u32> = Vec::with_capacity(1_000);
 
     for i in 0..=u32::max_value() {
-        if i.is_prime() && primes.len() <= 100_000 {
+        if i.is_prime() && primes.len() <= 1_000 {
             primes.push(i);
-        } else if primes.len() <= 100_000 {
+        } else if primes.len() <= 1_000 {
             continue;
         } else {
             break;
