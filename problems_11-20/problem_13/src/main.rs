@@ -111,8 +111,9 @@ fn main() {
         for n in numbers.iter() {
             temp_result += n.chars().nth(i).unwrap().to_digit(10).unwrap();
         }
+        
         remainder = temp_result.to_string();
-        let v = remainder.pop().unwrap();
+        let v: char = remainder.pop().unwrap();
         result.push(v.to_digit(10).unwrap());
     }
 
