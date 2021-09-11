@@ -111,14 +111,14 @@ fn main() {
         for n in numbers.iter() {
             temp_result += n.chars().nth(i).unwrap().to_digit(10).unwrap();
         }
-        
+
         remainder = temp_result.to_string();
         let v: char = remainder.pop().unwrap();
         result.push(v.to_digit(10).unwrap());
     }
 
     let remainder: u32 = remainder.parse().unwrap();
-    let result: std::iter::Take<std::iter::Rev<std::slice::Iter<'_, _>>> =
+    let result: std::iter::Take<std::iter::Rev<std::slice::Iter<'_, u32>>> =
         result.iter().rev().take(10 - remainder.to_string().len());
 
     print!("{}", remainder);
