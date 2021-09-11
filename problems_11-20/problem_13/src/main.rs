@@ -112,12 +112,10 @@ fn main() {
             temp_result += n.chars().nth(i).unwrap().to_digit(10).unwrap();
         }
 
-        remainder = temp_result.to_string();
-        let v: char = remainder.pop().unwrap();
-        result.push(v.to_digit(10).unwrap());
+        remainder = temp_result.to_string(); // the next statement corrects the remainder
+        result.push(remainder.pop().unwrap().to_digit(10).unwrap()); // we're pushing the pop()'ed item
     }
 
-    let remainder: u32 = remainder.parse().unwrap();
     let result: std::iter::Take<std::iter::Rev<std::slice::Iter<'_, u32>>> =
         result.iter().rev().take(10 - remainder.to_string().len());
 
