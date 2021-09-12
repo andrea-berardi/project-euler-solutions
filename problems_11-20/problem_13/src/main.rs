@@ -103,23 +103,23 @@ fn main() {
         .collect();
 
     let mut result: Vec<u32> = Vec::with_capacity(numbers.len());
-    let mut remainder: String = String::from("0");
+    let mut carry: String = String::from("0");
 
     for i in (0..=numbers[0].len() - 1).rev() {
-        let mut temp_result: u32 = remainder.parse().unwrap();
+        let mut temp_result: u32 = carry.parse().unwrap();
 
         for n in numbers.iter() {
             temp_result += n.chars().nth(i).unwrap().to_digit(10).unwrap();
         }
 
-        remainder = temp_result.to_string(); // the next statement corrects the remainder
-        result.push(remainder.pop().unwrap().to_digit(10).unwrap()); // we're pushing the pop()'ed item
+        carry = temp_result.to_string(); // the next statement corrects the carry
+        result.push(carry.pop().unwrap().to_digit(10).unwrap()); // we're pushing the pop()'ed item
     }
 
     let result: std::iter::Take<std::iter::Rev<std::slice::Iter<'_, u32>>> =
-        result.iter().rev().take(10 - remainder.to_string().len());
+        result.iter().rev().take(10 - carry.to_string().len());
 
-    print!("{}", remainder);
+    print!("{}", carry);
     for i in result {
         print!("{}", i);
     }
