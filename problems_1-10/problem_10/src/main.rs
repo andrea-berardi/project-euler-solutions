@@ -1,3 +1,6 @@
+// Summation of primes
+// https://projecteuler.net/problem=10
+
 fn main() {
     let mut tot: u64 = 0;
 
