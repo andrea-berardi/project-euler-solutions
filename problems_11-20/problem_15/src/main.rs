@@ -15,7 +15,6 @@ impl Factorial for u128 {
 
         for n in 1..=*self {
             factorial *= n;
-            println!("{}! = {}", n, factorial);
         }
 
         factorial
