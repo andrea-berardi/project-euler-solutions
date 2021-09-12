@@ -1,4 +1,4 @@
-// this solution is theoretically correct, but the numbers are too big to fit in a unsigned 128bit integer
+// this solution is theoretically correct, but the numbers are too big to fit in an unsigned 128bit integer
 fn main() {
     const GRID: u128 = 20;
 
