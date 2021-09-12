@@ -9,3 +9,6 @@ a.out
 # IDE resources
 .idea/
 .vscode/
+
+# Other
+perf.data
