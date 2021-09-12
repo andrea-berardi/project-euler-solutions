@@ -12,3 +12,6 @@ a.out
 
 # Other
 perf.data
+perf.data.old
+.gitignore
+flamegraph.svg
