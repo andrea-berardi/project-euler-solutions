@@ -1,5 +1,15 @@
+// Lattice paths
+// https://projecteuler.net/problem=15
+
 fn main() {
-    
+    const GRID: u64 = 20;
+
+    let mut paths: u64 = 1; // 1 is the neutral element of multiplication
+    for i in 0..GRID {
+        paths *= (GRID * 2) - i;
+        paths /= i + 1;
+    }
+    println!("{}", paths);
 }
 
 // this solution is theoretically correct, but the numbers are too big to fit in an unsigned 128bit integer
