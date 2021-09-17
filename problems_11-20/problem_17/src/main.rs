@@ -1,3 +1,6 @@
+// Number letter counts
+// https://projecteuler.net/problem=17
+
 fn main() {
     let mut tot: u32 = 0;
 
