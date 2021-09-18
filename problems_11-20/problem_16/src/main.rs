@@ -16,7 +16,10 @@ fn main() {
             *n = _prod % 10;
             carry = _prod / 10;
         }
-        number.push(carry);
+
+        if carry != 0 {
+            number.push(carry);
+        }
     }
 
     println!("{}", number.iter().sum::<u32>());
