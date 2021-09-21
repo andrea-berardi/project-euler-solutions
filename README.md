@@ -6,7 +6,7 @@ As you might expect, these solutions are not meant to be _optimal_ or even _good
 
 ## Problems solved or under active development
 
-The completed problems are shown as :ballot_box_with_check:, and those under active development as :black_square_button:.
+:heavy_check_mark:: solved.
 
 - [x] Problem 01 - 10
 - [ ] Problem 11 - 20
@@ -17,6 +17,22 @@ The completed problems are shown as :ballot_box_with_check:, and those under act
   - [x] Problem 15
   - [x] Problem 16
   - [x] Problem 17
-  - [ ] Problem 18
+  - [x] Problem 18
   - [ ] Problem 19
   - [ ] Problem 20
+- [ ] Problem 21 - 30
+- [ ] Problem 31 - 40
+- [ ] Problem 41 - 50
+- [ ] Problem 51 - 60
+- [ ] Problem 61 - 70
+  - [ ] Problem 61
+  - [ ] Problem 62
+  - [ ] Problem 63
+  - [ ] Problem 64
+  - [ ] Problem 65
+  - [ ] Problem 66
+  - [x] Problem 67
+  - [ ] Problem 68
+  - [ ] Problem 69
+  - [ ] Problem 70
+  
