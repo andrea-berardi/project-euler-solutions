@@ -6,7 +6,7 @@ As you might expect, these solutions are not meant to be _optimal_ or even _good
 
 ## Problems solved or under active development
 
-:heavy_check_mark:: solved.
+Solved problems are marked by :heavy_check_mark:.
 
 - [x] Problem 01 - 10
 - [ ] Problem 11 - 20
