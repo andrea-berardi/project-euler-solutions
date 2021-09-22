@@ -9,18 +9,18 @@ As you might expect, these solutions are not meant to be _optimal_ or even _good
 Solved problems are marked by :heavy_check_mark:.
 
 - [x] Problem 01 - 10
-- [ ] Problem 11 - 20
-  - [x] Problem 11
-  - [x] Problem 12
-  - [x] Problem 13
-  - [x] Problem 14
-  - [x] Problem 15
-  - [x] Problem 16
-  - [x] Problem 17
-  - [x] Problem 18
-  - [ ] Problem 19
-  - [ ] Problem 20
+- [x] Problem 11 - 20
 - [ ] Problem 21 - 30
+  - [ ] Problem 21
+  - [ ] Problem 22
+  - [ ] Problem 23
+  - [ ] Problem 24
+  - [ ] Problem 25
+  - [ ] Problem 26
+  - [ ] Problem 27
+  - [ ] Problem 28
+  - [ ] Problem 29
+  - [ ] Problem 30
 - [ ] Problem 31 - 40
 - [ ] Problem 41 - 50
 - [ ] Problem 51 - 60
