@@ -12,7 +12,7 @@ Solved problems are marked by :heavy_check_mark:.
 - [x] Problem 11 - 20
 - [ ] Problem 21 - 30
   - [x] Problem 21
-  - [ ] Problem 22
+  - [x] Problem 22
   - [ ] Problem 23
   - [ ] Problem 24
   - [ ] Problem 25
