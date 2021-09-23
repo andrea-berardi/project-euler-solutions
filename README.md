@@ -11,7 +11,7 @@ Solved problems are marked by :heavy_check_mark:.
 - [x] Problem 01 - 10
 - [x] Problem 11 - 20
 - [ ] Problem 21 - 30
-  - [ ] Problem 21
+  - [x] Problem 21
   - [ ] Problem 22
   - [ ] Problem 23
   - [ ] Problem 24
