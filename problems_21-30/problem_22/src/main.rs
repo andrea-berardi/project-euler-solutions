@@ -18,7 +18,6 @@ fn main() {
 
         for c in name.1.chars() {
             tmp += c.c_index();
-            println!("{}: {}", c, c.c_index());
         }
 
         total += tmp * (name.0 as u32 + 1);
