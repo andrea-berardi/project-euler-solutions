@@ -1,3 +1,6 @@
+// Names scores
+// https://projecteuler.net/problem=22
+
 fn main() {
     let file: String = std::fs::read_to_string("names.txt").unwrap();
     let mut file: Vec<String> = file
