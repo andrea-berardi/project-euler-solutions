@@ -1,3 +1,6 @@
+// Non-abundant sums
+// https://projecteuler.net/problem=23
+
 fn main() {
     const MAX: u32 = 28_123;
 
