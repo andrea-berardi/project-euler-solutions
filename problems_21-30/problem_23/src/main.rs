@@ -36,14 +36,18 @@ trait Divisors {
 
 impl Divisors for u32 {
     fn is_abundant(&self) -> bool {
-        let mut divisors: Vec<u32> = Vec::new();
+        let mut divisors: u32 = 0;
 
-        for i in 1..*self {
-            if *self % i == 0 {
-                divisors.push(i);
+        for n in 2..=(*self as f32).sqrt() as u32 {
+            if *self % n == 0 {
+                divisors += n;
+
+                if *self / n != n {
+                    divisors += *self / n;
+                }
             }
         }
 
-        divisors.iter().sum::<u32>() > *self
+        divisors > *self
     }
 }
