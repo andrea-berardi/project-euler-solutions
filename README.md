@@ -35,4 +35,3 @@ Solved problems are marked by :heavy_check_mark:.
   - [ ] Problem 68
   - [ ] Problem 69
   - [ ] Problem 70
-  
