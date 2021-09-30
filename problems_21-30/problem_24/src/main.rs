@@ -1,4 +1,8 @@
-fn main() { // thanks Dijkstra
+// Lexicographic permutations
+// https://projecteuler.net/problem=24
+
+fn main() {
+    // thanks Dijkstra
     let mut permutation: Vec<u32> = (0..=9).collect();
     let p_len: usize = permutation.len();
 
