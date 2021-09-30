@@ -8,9 +8,9 @@ As you might expect, these solutions are not meant to be _optimal_ or even _good
 
 Problem Solving Awards
 
-- [Baby Steps](https://projecteuler.net/award=1)
-- [The Journey Begins](https://projecteuler.net/award=2)
-- [Decathlete](https://projecteuler.net/award=3)
+- [x] [Baby Steps](https://projecteuler.net/award=1)
+- [x] [The Journey Begins](https://projecteuler.net/award=2)
+- [x] [Decathlete](https://projecteuler.net/award=3)
 
 ## Problems solved or under active development
 
