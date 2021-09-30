@@ -4,6 +4,14 @@ My attempts at solving Project Euler's problems.
 
 As you might expect, these solutions are not meant to be _optimal_ or even _good_, I just need them to work fine. I will try to respect the "1 minute rule": basically, all the solutions should take _a lot_ less than one minute to be calculated.
 
+## Progress
+
+Problem Solving Awards
+
+- [Baby Steps](https://projecteuler.net/award=1)
+- [The Journey Begins](https://projecteuler.net/award=2)
+- [Decathlete](https://projecteuler.net/award=3)
+
 ## Problems solved or under active development
 
 Solved problems are marked by :heavy_check_mark:.
