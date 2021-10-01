@@ -21,7 +21,6 @@ fn main() {
                 triangle[line][element.0] += triangle[line + 1][element.0 + 1];
             }
         }
-        triangle.pop();
     }
 
     println!("{}", triangle[0][0]);
