@@ -11,6 +11,7 @@ Problem Solving Awards
 - [x] [Baby Steps](https://projecteuler.net/award=1)
 - [x] [The Journey Begins](https://projecteuler.net/award=2)
 - [x] [Decathlete](https://projecteuler.net/award=3)
+- [x] [Easy Prey](https://projecteuler.net/award=51)
 
 ## Problems solved or under active development
 
@@ -23,7 +24,7 @@ Solved problems are marked by :heavy_check_mark:.
   - [x] Problem 22
   - [x] Problem 23
   - [x] Problem 24
-  - [ ] Problem 25
+  - [x] Problem 25
   - [ ] Problem 26
   - [ ] Problem 27
   - [ ] Problem 28
