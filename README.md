@@ -26,7 +26,7 @@ Solved problems are marked by :heavy_check_mark:.
   - [x] Problem 24
   - [x] Problem 25
   - [x] Problem 26
-  - [ ] Problem 27
+  - [x] Problem 27
   - [ ] Problem 28
   - [ ] Problem 29
   - [ ] Problem 30
