@@ -44,3 +44,8 @@ Solved problems are marked by :heavy_check_mark:.
   - [ ] Problem 68
   - [ ] Problem 69
   - [ ] Problem 70
+
+  ## Disclaimer
+  
+  I am currently not following this repo. 
+  
