@@ -29,7 +29,7 @@ Solved problems are marked by :heavy_check_mark:.
   - [x] Problem 27
   - [x] Problem 28
   - [x] Problem 29
-  - [ ] Problem 30
+  - [x] Problem 30
 - [ ] Problem 31 - 40
 - [ ] Problem 41 - 50
 - [ ] Problem 51 - 60
