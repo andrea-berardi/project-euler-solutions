@@ -19,18 +19,18 @@ Solved problems are marked by :heavy_check_mark:.
 
 - [x] Problem 01 - 10
 - [x] Problem 11 - 20
-- [ ] Problem 21 - 30
-  - [x] Problem 21
-  - [x] Problem 22
-  - [x] Problem 23
-  - [x] Problem 24
-  - [x] Problem 25
-  - [x] Problem 26
-  - [x] Problem 27
-  - [x] Problem 28
-  - [x] Problem 29
-  - [x] Problem 30
+- [x] Problem 21 - 30
 - [ ] Problem 31 - 40
+  - [ ] Problem 31
+  - [ ] Problem 32
+  - [ ] Problem 33
+  - [ ] Problem 34
+  - [ ] Problem 35
+  - [ ] Problem 36
+  - [ ] Problem 37
+  - [ ] Problem 38
+  - [ ] Problem 39
+  - [ ] Problem 40
 - [ ] Problem 41 - 50
 - [ ] Problem 51 - 60
 - [ ] Problem 61 - 70
